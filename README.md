@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Enrica 👋
 
 <!--
 **enricadirado/enricadirado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm Enrica 👋
 - 📚 I'm currently studying Digital Humanities at Univeristy of Pisa
 - 🎸 I really like playing my guitar!
 - 🖥️ I'm intrested in Ethical AI, Web Programming and Computational Linguistics
