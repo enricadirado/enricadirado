@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Hi! I'm Enrica 👋
-\n📚 I'm currently studying Digital Humanities at Univeristy of Pisa
-🎸 I really like playing my guitar!
-🖥️ I'm intrested in Ethical AI, Web Programming and Computational Linguistics
+- 📚 I'm currently studying Digital Humanities at Univeristy of Pisa
+- 🎸 I really like playing my guitar!
+- 🖥️ I'm intrested in Ethical AI, Web Programming and Computational Linguistics
