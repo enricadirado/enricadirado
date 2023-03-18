@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! I'm Enrica 👋
+📚 I'm currently studying Digital Humanities at Univeristy of Pisa
+🎸 I really like playing my guitar!
+🖥️ I'm intrested in Ethical AI, Web Programming and Computational Linguistics
