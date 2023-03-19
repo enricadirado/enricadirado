@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,js,jquery,mysql,php,py&theme=light)](https://skillicons.dev)
 
-### <h2>Reach me on:</h2>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ebb.and.flow__/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enricadirado)
 
 ### <h2>Stats</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enricadirado&layout=compact)](https://github.com/enricadirado/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enricadirado)](https://github.com/enricadirado/github-readme-stats)
+
+### <h2>Reach me on:</h2>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ebb.and.flow__/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enricadirado)
