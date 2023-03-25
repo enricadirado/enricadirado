@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 ### <h2>📊 Stats</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enricadirado&layout=compact)](https://github.com/enricadirado/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enricadirado)](https://github.com/enricadirado/github-readme-stats)
 
 ### <h2>🌌 How to reach me:</h2>
