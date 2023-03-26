@@ -26,8 +26,11 @@ Here are some ideas to get you started:
 
 
 ### <h2>📊 Stats</h2>
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enricadirado)](https://github.com/enricadirado/github-readme-stats)-->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=enricadirado&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enricadirado&layout=compact)](https://github.com/enricadirado/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enricadirado)](https://github.com/enricadirado/github-readme-stats)
 
 ### <h2>🌌 How to reach me:</h2>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ebb.and.flow__/)
