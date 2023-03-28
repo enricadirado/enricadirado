@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 - 📚 I'm currently studying Digital Humanities at Univeristy of Pisa
-- 🎸 I really like playing my guitar!
 - 🖥️ I'm intrested in Ethical AI, Web Programming and Computational Linguistics
 - 👩🏼‍💻 I’m currently working on a <b>Text Encoding project</b>
+- 🎸 I really like playing my guitar!
 
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,js,jquery,mysql,php,py&theme=light)](https://skillicons.dev)
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 
 <h3>Latest project</h3>
-👇 Have a look on what I'm working on!
+👇 Have a look at what I'm working on!
