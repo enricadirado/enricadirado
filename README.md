@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 📚 I'm currently studying Digital Humanities at Univeristy of Pisa
 - 🖥️ I'm intrested in Ethical AI, Web Programming and Computational Linguistics
-- 👩🏼‍💻 I’m currently working on a <b>Text Encoding project</b>
+- 👩🏼‍💻 I’m currently working on a <b>JS project</b>
 - 🎸 I really like playing my guitar!
 
 
