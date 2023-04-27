@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enricadirado)
 
 
-<h3>Latest project</h3>
-👇 Have a look at what I'm working on!
+<h3>Latest project 👇</h3>  
+<!--Have a look at what I'm working on!-->
