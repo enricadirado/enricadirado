@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🎓 I got a Bachelor's degree in [Digital Humanities](https://infouma.fileli.unipi.it/laurea-triennale/) at the University of Pisa
 - 📚 I’m currently attending a Master's Degree in [Digital Humanities](https://infouma.fileli.unipi.it/laurea-magistrale/) (Language Technologies) at the University of Pisa
-- 🖥️ I'm intrested in Ethical AI, Web Programming and Computational Linguistics
+- 🖥️ I'm intrested in Web Programming and Computational Linguistics
 - 🎸 I really like playing my guitar!
 <!-- 👩🏼‍💻 I’m currently working on a <b>Computational Linguistics project</b>-->
 
