@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📚 I’m currently attending a Master's Degree in [Digital Humanities](https://infouma.fileli.unipi.it/laurea-magistrale/) (Language Technologies) at the University of Pisa
 - 🖥️ I'm intrested in Web Programming and Computational Linguistics
 - 🎸 I really like playing my guitar!
-<!-- 👩🏼‍💻 I’m currently working on a <b>Computational Linguistics project</b>-->
+- 👩🏼‍💻 I’m currently working on a <b>Data Mining project</b>
 
 
 
